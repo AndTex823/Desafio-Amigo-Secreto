@@ -45,8 +45,9 @@ André T. Desenvolvedor Principal
 
 # Autores
 
-| <img loading="lazy" src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Seu Nome</sub> |
+| <img loading="lazy" src="https://avatars.githubusercontent.com/u/AndTex823?v=4" width=115><br><sub>AndTex823</sub> |
 | :---: |
+
 
 ## Contatos:
 
