@@ -10,6 +10,7 @@
 - Contribuição
 - Licença
 - Autores
+- Contatos
 
 ## Descrição
 O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a realização de amigos secretos, permitindo que os participantes se inscrevam, sejam sorteados e recebam notificações de forma automatizada.
@@ -21,18 +22,19 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
 - Interface amigável para visualização dos resultados
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
+- !HTML
+- !CSS
+- !JavaScript
+- !React
+- !Node.js
+- !Express
+- !MongoDB
 
 ## Como Usar
 1. Clone o repositório:
    ```bash
    git clone https://github.com/AndTex823/desafio-amigo-secreto.git
+
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
