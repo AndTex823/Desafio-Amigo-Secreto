@@ -36,11 +36,12 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
    git clone https://github.com/AndTex823/desafio-amigo-secreto.git
 
 2. Instale as dependências:
-<cd desafio-amigo-secreto>
-<npm install>
+cd desafio-amigo-secreto
+npm install
 
 3. Inicie o servidor:
-<npm start>
+npm start
+
 
 Acesse a aplicação em http://localhost:3000
 
