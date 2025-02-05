@@ -34,13 +34,13 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
    ```bash
    git clone https://github.com/AndTex823/desafio-amigo-secreto.git
 
-Contribuição
+## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-# Autores
+## Autores
 
 | <img loading="lazy" src="https://github.com/AndTex823.png" width=115><br><sub>AndTex823</sub> |
 | :---: |
