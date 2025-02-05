@@ -21,6 +21,9 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
 - Interface amigável para visualização dos resultados
 
 ## Tecnologias Utilizadas
+- HTML
+- CSS
+- JavaScript
 - React
 - Node.js
 - Express
