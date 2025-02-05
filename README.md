@@ -33,3 +33,19 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
 1. Clone o repositório:
    ```bash
    git clone https://github.com/AndTex823/desafio-amigo-secreto.git
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+Autores
+André T. Desenvolvedor Principal 
+
+## Contatos:
+
+<div>
+<a href = "mailto:andtex823@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andreluizteixeira/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
