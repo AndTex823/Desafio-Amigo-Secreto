@@ -41,7 +41,7 @@ function sortearAmigo() {
         return;
     }
     const sorteado = amigos[Math.floor(Math.random() * amigos.length)];
-    exibirTextoNaTela('resultado', `O amigo secreto sorteado é: ${sorteado}`);
+    exibirTextoNaTela('#resultado', `O amigo secreto sorteado é: ${sorteado}`);
 }
 
 document.addEventListener('DOMContentLoaded', function() {
