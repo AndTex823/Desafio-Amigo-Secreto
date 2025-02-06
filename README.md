@@ -18,7 +18,7 @@ O **Desafio Amigo Secreto** é um projeto que visa facilitar a organização e a
 ## Funcionalidades
 - Cadastro de participantes
 - Sorteio automático dos amigos secretos
-- Envio de notificações por e-mail
+- Visualização na tela do nome sorteado
 - Interface amigável para visualização dos resultados
 
 ## Tecnologias Utilizadas
