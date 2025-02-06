@@ -9,8 +9,8 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('#titulo', 'Amigo Secreto');
-    exibirTextoNaTela('#subtitulo', 'Digite o nome dos seus amigos');   
+    exibirTextoNaTela('h1', 'Amigo Secreto');
+    exibirTextoNaTela('h2', 'Digite o nome dos seus amigos');   
 }
 
 exibirMensagemInicial();
@@ -41,7 +41,7 @@ function sortearAmigo() {
         return;
     }
     const sorteado = amigos[Math.floor(Math.random() * amigos.length)];
-    exibirTextoNaTela('#resultado', `O amigo secreto sorteado é: ${sorteado}`);
+    exibirTextoNaTela('resultado', `O amigo secreto sorteado é: ${sorteado}`);
 }
 
 document.addEventListener('DOMContentLoaded', function() {
